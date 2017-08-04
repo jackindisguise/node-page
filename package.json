@@ -1,0 +1,34 @@
+{
+  "name": "new-node-page",
+  "version": "0.0.0",
+  "description": "New node page.",
+  "main": "node-page.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jackindisguise",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jackindisguise/node-page.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "pug",
+    "webserver",
+    "page"
+  ],
+  "bugs": {
+    "url": "https://github.com/jackindisguise/node-page/issues"
+  },
+  "homepage": "https://github.com/jackindisguise/node-page#readme"
+}
